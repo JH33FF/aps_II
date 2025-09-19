@@ -1,0 +1,6 @@
+Letra A)
+
+Foram usadas as técnicas Move Method, Extract Interface e Extract Method
+
+Essas mudanças foram importantes pois enxugou o código, criou-se uma interface para a adesão de polimorfismo e tornou menos complexo a legibilidade
+dos calculos quando após a refatoração ficaram separados.
